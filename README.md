@@ -118,4 +118,3 @@ This project demonstrates the effectiveness of web mining and NLP techniques for
 ---
 
 **Developed by:** [AbhiChandraDondapati](https://github.com/AbhiChandraDondapati)  
-**License:** MIT License
