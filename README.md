@@ -1,5 +1,8 @@
 # 📊 Sentiment Analysis of Tweets on the 2024 US Presidential Election
 
+![Who is the winner](https://github.com/user-attachments/assets/69921afa-1622-403e-a352-56d4f451c21f)
+
+
 This project analyzes tweets related to the 2024 US Presidential Election using Natural Language Processing (NLP) and sentiment analysis techniques. By leveraging web mining and visualization, it aims to uncover patterns and public sentiment towards the candidates.
 
 ---
